@@ -3,24 +3,22 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-4yp-project-template
-title:
+repository-name: e16-4yp-AI-as-a-Microservice-for-Smart-Edge-of-Things
+title: AI as a Microservice for Smart Edge of Things
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
-# Project Title
+# AI as a Microservice for Smart Edge of Things
 
 #### Team
 
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
-- eNumber, Name, [email](mailto:name@email.com)
+- E/16/022, Amarasinghe D.L.C., [email](mailto:e16022@eng.pdn.ac.lk)
+- E/16/025, Amasith K.T.D., [email](mailto:e16025@eng.pdn.ac.lk)
 
 #### Supervisors
 
-- Name, [email](mailto:name@eng.pdn.ac.lk)
-- Name, [email](mailto:name@eng.pdn.ac.lk)
+- Dr. Upul Jayasinghe, [email](mailto:upuljm@eng.pdn.ac.lk)
 
 #### Table of content
 
@@ -34,11 +32,6 @@ title:
 8. [Links](#links)
 
 ---
-
-DELETE THIS SAMPLE before publishing to GitHub Pages !!!
-This is a sample image, to show how to add images to your page. To learn more options, please refer [this](https://projects.ce.pdn.ac.lk/docs/faq/how-to-add-an-image/)
-![Sample Image](./images/sample.png)
-
 
 ## Abstract
 
