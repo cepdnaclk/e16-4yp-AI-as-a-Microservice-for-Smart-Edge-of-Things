@@ -1,29 +1,20 @@
 {
     "team": [
         {
-            "name": "Team Member Name 1",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Amarasinghe D.L.C.",
+            "email": "e16022@eng.pdn.ac.lk",
+            "eNumber": "E/16/022"
         },
         {
-            "name": "Team Member Name 2",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
-        },
-        {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx"
+            "name": "Amasith K.T.D.",
+            "email": "e16025@eng.pdn.ac.lk",
+            "eNumber": "E/16/025"
         }
     ],
     "supervisors": [
         {
-            "name": "Dr. Supervisor 1",
-            "email": "email@eng.pdn.ac.lk"
-        },
-        {
-            "name": "Dr. Supervisor 2",
-            "email": "email@eng.pdn.ac.lk"
+            "name": "Dr. Upul Jayasinghe",
+            "email": "upuljm@eng.pdn.ac.lk"
         }
     ],
     "media": [
@@ -33,5 +24,5 @@
             "url": "#"
         }
     ],
-    "tags": ["Final Year Projects"]
+    "tags": ["AIMS-AI-as-Microservice", "Microservice", "IoT", "Smart Edge", "Microservice-Orchestration", "Blockchain", "Machine-Learning", "Kubernetes"]
 }
