@@ -39,7 +39,7 @@ title: AI as a Microservice for Smart Edge of Things
 
 Cloud computing architecture has been proposed as a recent advancement to address the difficulties of implementing globally distributed Internet of Things (IoT) applications. The fundamental problem with existing IoT implementations is how to transfer and handle the enormous amounts of data produced by IoT devices on top of remote cloud computing resources. This causes significant delays and traffic congestion because the current mobile network is unable to send this much data without encountering an excessive amount of latency. While all data generated at edge devices must pass over the network and may be exposed in the course of transmission, this scenario may also result in privacy concerns when it comes to cloud computing. Since sensitive data must be obtained and handled in cloud computing environments, data privacy may also be jeopardized there. As an alternative to cloud computing and in order to decrease the sending of duplicate data to cloud-based resources, edge computing is discussed in the context of IoT. Therefore, computing at the edges allows faster analysis and time-critical data-driven decision-making capabilities, thus enabling rapid response, lower network latency, and reduction in traffic load. In comparison to monolithic solutions, microservice architecture in edge devices allows AI components to offer real-time IoT services in a distributed manner, so that data does not need to go through the network but can be processed at the local devices. Therefore, in order to achieve these capabilities, real-time deep learning AI algorithms can be designed at the edge using microservices. So, in this paper, we propose a novel architecture and test the implementation to address certain scenarios.
 
-
+<!--
 ## Related works
 
 #### Distributed Computing
@@ -195,7 +195,7 @@ The second approach for future efforts is to divide AI services more lightly. We
 In order to increase the range of IoT applications, edge computing has evolved as a new computational idea that addresses problems with the cloud computing paradigm. IoT systems have adopted the most advanced distributed computing design approaches, leveraging microservices to disperse the execution of AI services at the edge.
 
 It's critical to compare various approaches for developing and processing AI models in a distributed setting with resource-constrained edge devices and microservices architectures.
-
+-->
 <!-- ## Publications -->
 [//]: # "Note: Uncomment each once you uploaded the files to the repository"
 
@@ -205,7 +205,7 @@ It's critical to compare various approaches for developing and processing AI mod
 <!-- 4. [Semester 8 slides](./) -->
 <!-- 5. Author 1, Author 2 and Author 3 "Research paper title" (2021). [PDF](./). -->
 
-
+<!--
 ## Links
 
 [//]: # ( NOTE: EDIT THIS LINKS WITH YOUR REPO DETAILS )
@@ -216,4 +216,7 @@ It's critical to compare various approaches for developing and processing AI mod
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
 [//]: # "Please refer this to learn more about Markdown syntax"
+
+
 [//]: # "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet"
+-->
